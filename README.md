@@ -1,5 +1,6 @@
 <div align="center">
 <br />
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/10dedacab6330ebbc66a11f5963741bb4e77b0cf_screenshot-rocks.png">
 <h1>Cereja</h1><i>v1.0</i>
 <p>The Library Service</p>
 </div>
