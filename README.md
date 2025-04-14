@@ -5,6 +5,12 @@
 <p>The Library Service</p>
 </div>
 
+## What's Cereja?
+
+Cereja is a Library System, I started designing Cereja when I realized that I have a lot of books scattered around my house, as a great student of Systems Development why not make a database? So in this v1.0, I present a JFrame Form connected to PostgreSQL.
+<br />
+Where does the name come from? Cereja is cherry in Portuguese, and I particularly like cherry.
+
 ## Requirements to run locally
 
 - Apache NetBeans IDE 21 (or higher)
