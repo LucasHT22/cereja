@@ -46,4 +46,4 @@ Each one of these folders represent a package.
 - `/model`- Contains Book.java, responsible for the get and set methods
 - `/controller` - Contains BookController.java, responsible for database requests
 - `/util` - Contains Database.java, responsible for connecting to the database, DO NOT forget to set `DB_USER`and `DB_PASSWORD`
-- `/view` - Contains ManFrame.java, a JFrame Form, responsible for the user interface
+- `/view` - Contains MainFrame.java, a JFrame Form, responsible for the user interface
