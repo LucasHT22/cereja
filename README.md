@@ -1,13 +1,13 @@
 <div align="center">
 <br />
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/10dedacab6330ebbc66a11f5963741bb4e77b0cf_screenshot-rocks.png">
-<h1>Cereja</h1><i>v1.0</i>
+<h1>Cereja</h1><i>v1.1</i>
 <p>The Library Service</p>
 </div>
 
 ## What's Cereja?
 
-Cereja is a Library System, I started designing Cereja when I realized that I have a lot of books scattered around my house, as a great student of Systems Development why not make a database? So in this v1.0, I present a JFrame Form connected to PostgreSQL.
+Cereja is a Library System, PostgreSQL and Java
 <br />
 Where does the name come from? Cereja is cherry in Portuguese, and I particularly like cherry.
 
