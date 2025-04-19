@@ -18,7 +18,7 @@ public class Database {
             return DriverManager.getConnection(dbUrl, dbUser, dbPassword);
         } catch (SQLException e) {
             e.printStackTrace();
-            throw new SQLException("Erro na conexão com o banco de dados PostgreSQL.");
+            throw new SQLException("Error connecting with PostgreSQL database.");
         }
     }
 }
